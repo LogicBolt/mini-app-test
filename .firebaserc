@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "telegram-mini-app-test-36441"
-  }
+    "default": "telegram-mini-app-test-36441",
+    "deploy": "telegram-mini-app-test-36441"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
